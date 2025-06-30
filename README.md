@@ -78,7 +78,7 @@
 
 ---
 
-### 🌈 One More Thing...
+### One More Thing...
 
 ```bash
 # If creativity had a command-line:
