@@ -1,83 +1,76 @@
-<!-- PROFESSIONAL GITHUB README | Edgar M. Ochieng -->
+## Hi there 👋
+
+---
+
+<!-- ⚡ Edgar M. Ochieng - Creative GitHub Profile README -->
 
 <!-- BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/49ochieng/49ochieng/main/assets/banner.png" alt="Edgar M. Ochieng banner" />
-</p>
-
-<h1 align="center">Edgar M. Ochieng</h1>
-<p align="center">
-  <strong>Full-Stack Engineer</strong> | <strong>Open Source Contributor</strong> | <strong>Infrastructure Automator</strong>
-</p>
-<p align="center">
-  <em>Building scalable systems. Leading with empathy. Empowering dev communities.</em>
+  <img src="https://readme-hero.vercel.app/api?title=Edgar%20M.%20Ochieng&subtitle=Digital%20Craftsman%20%7C%20Creative%20Engineer%20%7C%20Open%20Source%20Knight&font=Exo&textColor=ffffff&bgColor=%23000000&center=true" alt="Banner" />
 </p>
 
 ---
 
-## 🧑🏾‍💻 About Me
+<h2 align="center">👋 Welcome, curious coder!</h2>
 
-- 💼 **Title:** Full-Stack Software Engineer (5+ years)
-- 📍 **Location:** Nairobi, Kenya
-- 🎯 **Focus Areas:** Web/Mobile apps, DevOps automation, Clean architecture, Team enablement
-- 🧑🏾‍🏫 **Mentorship:** Guided 50+ junior developers into tech careers
-- 🌍 **Open Source:** Active contributor to African tech communities and FOSS projects
+> 🧠 I'm Edgar, a Nairobi-based full-stack engineer who's not just building applications — I'm crafting **experiences**, leading **teams**, and fueling **communities** with purpose and code.
 
 ---
 
-## 📊 Key Metrics
+### 🎨 TL;DR: I’m a...
 
-| 💡 Metric                  | 📈 Value                      |
-|---------------------------|-------------------------------|
-| Total GitHub Contributions | `6,000+` (last 12 months)     |
-| Projects Deployed          | `30+` (frontend/backend/devops) |
-| Developers Mentored        | `50+`                         |
-| StackOverflow Impact       | `Top 5%` in Django + React    |
-| Production Uptime          | `99.95%` (infra I've managed) |
-| Commits to Open Source     | `1,200+`                      |
+- 🧬 **Digital Craftsman** – building scalable web & mobile systems
+- 🚀 **Tech Alchemist** – React, Node.js, Django, Docker, K8s, AWS
+- 🎓 **Mentor & Leader** – guiding devs into greatness
+- 💥 **Creative Technologist** – where art meets logic
+- 🌍 **Global Collaborator** – connecting Kenya to the world, one repo at a time
 
 ---
 
-## ⚙️ Tech Stack
+### 🧰 My Toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,python,django,postgres,docker,kubernetes,terraform,aws,figma,linux,git,github&perline=8" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=react,redux,nodejs,python,django,postgres,docker,kubernetes,aws,figma,linux,git,github,vscode&perline=8" alt="Edgar's tech stack" />
 </p>
 
 ---
 
-## 🚀 Highlight Projects
+### 🔭 Signature Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| **HealthTrack** | Real-world healthcare system used in clinics across Kenya | Django, React, PostgreSQL |
-| **DevCraft CLI** | CLI tool to scaffold full-stack apps; used by 1,000+ developers | Node.js, Docker |
-| **OpenInfra Terraform** | Production-grade infrastructure templates for microservices | Terraform, AWS, K8s |
-| **JS Booster Pack** | Optimized JS utility functions used in multiple frontend teams | TypeScript, Vite |
+| 🚧 Project | 💡 Description |
+|-----------|----------------|
+| [**HealthTrack**](#) | A healthcare tracker powering real clinics in Kenya (Django + React) |
+| [**DevCraft CLI**](#) | One command, full-stack magic. Used by 1,000+ developers. |
+| [**OpenInfra Terraform**](#) | DevOps boilerplates powering 50+ microservices |
+| [**JS Booster Pack**](#) | Clean, optimized utilities for modern JavaScript devs |
+
+> *Ask me for live demos or walkthroughs 👇*
 
 ---
 
-## 📈 GitHub Stats
+### 📈 GitHub Pulse
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=49ochieng&show_icons=true&theme=default&count_private=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=49ochieng&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
   <br />
-  <img src="https://streak-stats.demolab.com?user=49ochieng&theme=default&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=49ochieng&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <br />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=49ochieng&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-## 🤝 Connect With Me
+### 🌐 Let's Get Social
 
 <p align="center">
   <a href="https://www.linkedin.com/in/edgar-mcochieng-126a642a6/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Edgar_Ochieng-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:edgar.mcochieng@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://github.com/49ochieng">
     <img src="https://img.shields.io/badge/GitHub-49ochieng-black?style=for-the-badge&logo=github" />
   </a>
@@ -85,15 +78,23 @@
 
 ---
 
-<details>
-<summary>📎 Additional Info</summary>
+### One More Thing...
 
-- 🏆 GitHub Arctic Code Vault Contributor  
-- 💬 Ask me about: architecture, automation, scalable design  
-- 📚 Currently learning: Rust, Systems Design, eBPF  
-- ⚡ Fun fact: I write better code after walking in nature 🌱
+```bash
+# If creativity had a command-line:
+npx edgar-mcochieng inspire --passion dev --mindset growth --collab yes
 
-</details>
+<!--
+**49ochieng/49ochieng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<!-- Footer -->
-<!-- Profile README: 49ochieng -->
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
