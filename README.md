@@ -1,7 +1,4 @@
 ## Hi there 👋
-
----
-
 <!-- ⚡ Edgar M. Ochieng - Creative GitHub Profile README -->
 
 <h2 align="center">👋 Welcome, curious coder!</h2>
