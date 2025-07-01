@@ -2,7 +2,6 @@
 
 ---
 
-<!-- ⚡ Edgar M. Ochieng - Creative GitHub Profile README -->
 
 <!-- BANNER -->
 <p align="center">
