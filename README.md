@@ -1,7 +1,7 @@
 ## Hi there 👋
 <!-- ⚡ Edgar M. Ochieng - Creative GitHub Profile README -->
 
-<h2 align="center">👋 Welcome, curious coder!</h2>
+<h2 align="center">Welcome, curious coder!</h2>
 
 > 🧠 I'm Edgar, a Nairobi-based full-stack engineer who's not just building applications — I'm crafting **experiences**, leading **teams**, and fueling **communities** with purpose and code.
 
