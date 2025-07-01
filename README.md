@@ -4,13 +4,6 @@
 
 <!-- ⚡ Edgar M. Ochieng - Creative GitHub Profile README -->
 
-<!-- BANNER -->
-<p align="center">
-  <img src="https://readme-hero.vercel.app/api?title=Edgar%20M.%20Ochieng&subtitle=Digital%20Craftsman%20%7C%20Creative%20Engineer%20%7C%20Open%20Source%20Knight&font=Exo&textColor=ffffff&bgColor=%23000000&center=true" alt="Banner" />
-</p>
-
----
-
 <h2 align="center">👋 Welcome, curious coder!</h2>
 
 > 🧠 I'm Edgar, a Nairobi-based full-stack engineer who's not just building applications — I'm crafting **experiences**, leading **teams**, and fueling **communities** with purpose and code.
