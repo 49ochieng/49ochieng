@@ -53,7 +53,7 @@
 ### 🌐 Let's Get Social
 
 <p align="center">
-  <a href="----">
+  <a href="https://www.linkedin.com/in/edgar-mcochieng-126a642a6/">
     <img src="https://img.shields.io/badge/LinkedIn-Edgar_Ochieng-blue?style=for-the-badge&logo=linkedin" />
   </a>
   &nbsp;&nbsp;
