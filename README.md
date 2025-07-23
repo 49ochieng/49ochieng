@@ -44,8 +44,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=49ochieng&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
   <br />
   <img src="https://streak-stats.demolab.com?user=49ochieng&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-  <br />
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=49ochieng&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
