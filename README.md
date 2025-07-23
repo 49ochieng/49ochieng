@@ -53,11 +53,11 @@
 ### 🌐 Let's Get Social
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/edgar-mcochieng-126a642a6/">
+  <a href="----">
     <img src="https://img.shields.io/badge/LinkedIn-Edgar_Ochieng-blue?style=for-the-badge&logo=linkedin" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:edgar.mcochieng@example.com">
+  <a href="mailto:edgarmcochieng@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" />
   </a>
   &nbsp;&nbsp;
