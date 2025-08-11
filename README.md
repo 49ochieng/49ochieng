@@ -1,5 +1,5 @@
 ## Hi there 👋
-<!-- ⚡ Edgar M. Ochieng - Creative GitHub Profile README -->
+<!-- ⚡ Edgar McOchieng - Creative GitHub Profile README -->
 
 <h2 align="center">Welcome, curious coder!</h2>
 
@@ -41,16 +41,32 @@
 ### 📈 GitHub Pulse
 
 <p align="center">
-  <img src="./metrics.svg" alt="GitHub Pulse for 49ochieng" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./metrics.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./metrics.svg">
+    <img src="https://raw.githubusercontent.com/49ochieng/49ochieng/main/metrics.svg" 
+         alt="GitHub Pulse for 49ochieng" 
+         width="100%" 
+         style="max-width: 850px;">
+  </picture>
 </p>
 
 <details>
   <summary><b>More insights</b></summary>
 
   <p align="center">
-    <img src="./metrics.additional.svg" alt="Additional metrics" width="100%" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./metrics.additional.svg">
+      <source media="(prefers-color-scheme: light)" srcset="./metrics.additional.svg">
+      <img src="https://raw.githubusercontent.com/49ochieng/49ochieng/main/metrics.additional.svg" 
+           alt="Additional GitHub insights" 
+           width="100%" 
+           style="max-width: 850px;">
+    </picture>
   </p>
 </details>
+
+---
 
 ### 🌐 Let's Get Social
 
@@ -67,5 +83,3 @@
     <img src="https://img.shields.io/badge/GitHub-49ochieng-black?style=for-the-badge&logo=github" />
   </a>
 </p>
-
----
