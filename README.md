@@ -40,7 +40,17 @@
 
 ### 📈 GitHub Pulse
 
+<p align="center">
+  <img src="./metrics.svg" alt="GitHub Pulse for 49ochieng" width="100%" />
+</p>
 
+<details>
+  <summary><b>More insights</b></summary>
+
+  <p align="center">
+    <img src="./metrics.additional.svg" alt="Additional metrics" width="100%" />
+  </p>
+</details>
 
 ### 🌐 Let's Get Social
 
