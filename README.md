@@ -46,7 +46,7 @@
     <source media="(prefers-color-scheme: light)" srcset="./metrics.svg">
     <img src="https://raw.githubusercontent.com/49ochieng/49ochieng/main/metrics.svg" 
          alt="GitHub Pulse for 49ochieng" 
-         width="100%" 
+         width="50%" 
          style="max-width: 600px;">
   </picture>
 </p>
