@@ -47,7 +47,7 @@
     <img src="https://raw.githubusercontent.com/49ochieng/49ochieng/main/metrics.svg" 
          alt="GitHub Pulse for 49ochieng" 
          width="100%" 
-         style="max-width: 850px;">
+         style="max-width: 600px;">
   </picture>
 </p>
 
