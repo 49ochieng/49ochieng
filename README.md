@@ -16,12 +16,12 @@
 ```
 
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=800&lines=Edgar+McOchieng;Microsoft+MVP+%F0%9F%8F%86;Senior+Full-Stack+Engineer;Building+Tomorrow's+Tech+Today;Nairobi+%E2%9E%A4+Global+Impact" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=800&lines=Edgar+McOchieng;Microsoft+MVP+%F0%9F%8F%86;Data+%26+AI+Engineer;Building+Intelligent+Solutions;Nairobi+%E2%9E%A4+Global+Impact" alt="Typing Animation" />
 </h1>
 
 <div>
   <img src="https://img.shields.io/badge/MVP-Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=000" />
-  <img src="https://img.shields.io/badge/Status-Available_for_Hire-00FF00?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=000" />
+  <img src="https://img.shields.io/badge/Specialization-Data_%26_AI_Engineer-FF4081?style=for-the-badge&logo=brain&logoColor=white&labelColor=000" />
   <img src="https://img.shields.io/badge/Location-Nairobi,_Kenya-FF6B35?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=000" />
   <img src="https://img.shields.io/badge/Focus-Full_Stack_Development-8A2BE2?style=for-the-badge&logo=codeigniter&logoColor=white&labelColor=000" />
 </div>
@@ -29,8 +29,8 @@
 <br/>
 
 <div>
-  <img width="49%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quote=Code%20is%20poetry%20written%20in%20logic&author=Edgar%20McOchieng" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=49ochieng&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=49ochieng&show_icons=true&theme=radical&hide_border=true&count_private=true&hide=issues" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=49ochieng&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </div>
 
 </div>
@@ -50,20 +50,20 @@
 ```javascript
 class Edgar {
   constructor() {
-    this.role = "Microsoft MVP";
+    this.role = "Microsoft MVP & Data/AI Engineer";
     this.location = "Nairobi, Kenya";
     this.experience = "5+ years";
-    this.passion = "Building digital solutions";
+    this.passion = "Building intelligent solutions";
     this.impact = "Global scale";
   }
   
   getCurrentFocus() {
     return [
-      "Full-Stack Architecture",
-      "Cloud-Native Solutions", 
+      "Data Engineering & Analytics",
+      "AI/ML Solutions Architecture", 
+      "Cloud-Native Data Platforms",
       "Team Leadership",
-      "Developer Mentoring",
-      "Open Source Contributions"
+      "Developer Mentoring"
     ];
   }
   
@@ -71,7 +71,8 @@ class Edgar {
     return {
       mvpStatus: true,
       developersmentored: 1000+,
-      productionApps: 50+,
+      dataProjects: 30+,
+      mlModelsDeployed: 25+,
       systemUptime: "99.9%",
       globalReach: "25+ countries"
     };
@@ -97,13 +98,13 @@ console.log(edgar.getCurrentFocus());
 | 🚀 **Impact Metrics** | 📊 **Numbers** | 🎯 **Achievement** |
 |:---------------------|:---------------|:-------------------|
 | 👥 **Developers Mentored** | 1,000+ | Across Africa & Beyond |
-| 🏗️ **Production Apps** | 50+ | Enterprise-grade solutions |
+| 🤖 **ML Models Deployed** | 25+ | Production AI systems |
+| 📊 **Data Projects** | 30+ | Enterprise data solutions |
 | ⚡ **System Uptime** | 99.9% | Mission-critical applications |
 | 🌍 **Global Reach** | 25+ Countries | International collaboration |
-| 🎤 **Speaking Events** | 15+ | Technical conferences |
-| 📚 **Technical Articles** | 50+ | Developer education |
+| 🎤 **Speaking Events** | 15+ | AI/Data conferences |
+| 📚 **Technical Articles** | 50+ | Data science education |
 | ⭐ **GitHub Stars** | 1,000+ | Open source contributions |
-| 💼 **Team Leadership** | 12+ Members | Cross-functional teams |
 
 ### 🌟 Core Mission
 > *"Bridging the gap between innovative technology and real-world solutions that transform lives across Africa and beyond."*
@@ -437,13 +438,13 @@ Data:     PostgreSQL + Redis + BigQuery
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=49ochieng&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=49ochieng&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=49ochieng&show_icons=true&theme=radical&hide_border=true&count_private=true&hide=issues&card_width=400" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=49ochieng&theme=radical&hide_border=true&card_width=400" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=49ochieng&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
-  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=49ochieng&theme=tokyonight&no-frame=true&column=3&margin-w=5&margin-h=5" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=49ochieng&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=400" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=49ochieng&theme=radical&hide_border=true&card_width=400" />
 </div>
 
 ### 🎯 Contribution Highlights
@@ -468,27 +469,13 @@ Data:     PostgreSQL + Redis + BigQuery
 <br>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=49ochieng&theme=tokyonight" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=49ochieng&theme=redical&hide_border=true" width="100%" />
 </div>
 
-<table>
-<tr>
-<td width="50%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=49ochieng&theme=tokyonight" />
-</td>
-<td width="50%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=49ochieng&theme=tokyonight" />
-</td>
-</tr>
-<tr>
-<td width="50%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=49ochieng&theme=tokyonight" />
-</td>
-<td width="50%">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=49ochieng&theme=tokyonight&utcOffset=3" />
-</td>
-</tr>
-</table>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=49ochieng&repo=healthtrack&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=49ochieng&repo=devcraft-cli&theme=radical&hide_border=true" />
+</div>
 
 </details>
 
